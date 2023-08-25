@@ -98,7 +98,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 <br>
-<div align='center'>
+
 
 ## <b>Don't Hesitate to contact me for any doubt or query,<br>
 Best Regards,
