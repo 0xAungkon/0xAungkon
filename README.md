@@ -67,8 +67,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 </p>
 
------
-
 <br>
 
 
