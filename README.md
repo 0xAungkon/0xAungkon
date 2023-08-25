@@ -2,10 +2,6 @@
 
 <br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onlycoder000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlycoder000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onlycoder000) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/onlycoder000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onlycoder000) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@onlycoder000@wayne) 
-
-
 
 
 
@@ -89,8 +85,13 @@ I'm a software engineer who is passionate about making contributing to open-sour
 </a>
 </div>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onlycoder000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlycoder000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onlycoder000) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/onlycoder000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onlycoder000) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@onlycoder000@wayne) 
+
+
+
 <br>
-# 📊 GitHub Stats: 
+## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=onlycoder000&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=onlycoder000&hide_border=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlycoder000&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=onlycoder000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
