@@ -20,7 +20,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Portfolio website [link](http://onlycoder.dev/)
 - I’m currently open for a new job opportunity, this is [My Resume](https://github.com/onlycoder000/onlycoder000/blob/main/Images/resume.pdf)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -91,29 +90,16 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 <br>
-## 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=onlycoder000&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=onlycoder000&hide_border=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlycoder000&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=onlycoder000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=onlycoder000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=onlycoder000&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onlycoder000) 
 
 
-
-
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align='center'>
 
 ## <b>Don't Hesitate to contact me for any doubt or query,<br>
