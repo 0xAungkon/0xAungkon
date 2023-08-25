@@ -101,8 +101,8 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## <b>Don't Hesitate to contact me for any doubt or query,<br>
-<b>Best Regards,<br>
-Aungkon</b></b>
+<h2>Best Regards,<br>
+Aungkon</b></h2>
 
 ---
 
