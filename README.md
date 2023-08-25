@@ -1,14 +1,9 @@
 # Hi, I'm Aungkon 👋🏾 👩🏾‍💻
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&height=400&lines=Hi+%2C+I+am+a+Passionate+and;+Self-taught+Full+Stake+Developer.;++Currently+Studying+at+B.B.S+Hon's"></a>
-</p>
-
 
 <br>
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Aungkon Malakar - Software Developer, Ctf Player, ">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="https://github.com/onlycoder000/onlycoder000/blob/main/Images/banner.png" alt="banner that says Aungkon Malakar - Software Developer, Ctf Player, ">
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Wordpress Plugin Development, Python and Verient Api's, Macine Learning. 
 
 
 
@@ -23,7 +18,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Playing CTF's at spare time
 - Currently learning Macine Learning by Self
 - Personal website [link](http://onlycoder.dev/)
-- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, this is [My Resume](https://github.com/onlycoder000/onlycoder000/blob/main/Images/resume.pdf)
 
 <br><br>
 
