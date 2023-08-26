@@ -83,7 +83,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 </div>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AungkonMalakar/) [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/aungkon-malakar) [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/OnlyCoder_0) 
+![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)(https://www.facebook.com/AungkonMalakar/) [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/aungkon-malakar) [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/OnlyCoder_0) 
 
   
 
