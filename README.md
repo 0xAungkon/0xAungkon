@@ -14,7 +14,7 @@
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Wordpress Plugin Development, Python and Verient Api's, Machine Learning. 
 <br>
  
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full Stack developer
 - Playing CTF's at spare time
 - Currently learning Macine Learning by Self
 - Portfolio website [link](http://onlycoder.dev/)
