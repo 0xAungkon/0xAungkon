@@ -18,7 +18,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Playing CTF's at spare time
 - Currently learning Macine Learning by Self
 - Portfolio website [link](http://onlycoder.dev/)
-- I’m currently open for a new job opportunity, this is [My Resume]('https://github.com/onlycoder000/onlycoder000/blob/main/Images/wordpress-resume.pdf')
+- I’m currently open for a new job opportunity, this is [My Resume]('Images/wordpress-resume.pdf')
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
