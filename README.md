@@ -73,14 +73,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-<a href="https://github.com/onlycoder000/">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlycoder000&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlycoder000&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="onlycoder000"/>
-
-</a>
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/AungkonMalakar/) [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/aungkon-malakar) [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/OnlyCoder_0) 
