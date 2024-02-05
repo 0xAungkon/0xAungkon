@@ -10,7 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<img src="https://github.com/onlycoder000/onlycoder000/blob/main/Images/banner.png" alt="banner that says Aungkon Malakar - Software Developer, Ctf Player, ">
+<img src="https://github.com/onlycoder000/onlycoder000/blob/main/Images/banner2.png" alt="banner that says Aungkon Malakar - Software Developer, Ctf Player, ">
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Wordpress Plugin Development, Python and Verient Api's, Machine Learning. 
 <br>
  
