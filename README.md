@@ -17,7 +17,7 @@ I'm a Self Taught software engineer who is passionate about making contributing 
 - A passionate Self-taught Full Stack developer
 - Playing CTF's at spare time
 - Currently learning Macine Learning by Self
-- Portfolio website [link]([http://onlycoder.dev/](https://0xaungkon.github.io/))
+- [Portfolio website link]([http://onlycoder.dev/](https://0xaungkon.github.io/))
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
