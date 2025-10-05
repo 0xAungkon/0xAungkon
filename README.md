@@ -1,4 +1,4 @@
-# Hi, I'm Aungkon (This Readme Refect my 2020 skill's) 💻 👋
+# Hi, I'm Aungkon (This Readme Reflect my 2020 skill's) 💻 👋
 
 <br>
 
