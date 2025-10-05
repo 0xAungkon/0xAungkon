@@ -1,4 +1,4 @@
-# Hi, I'm Aungkon (Outdated) 💻 👋
+# Hi, I'm Aungkon (Readme Outdated) 💻 👋
 
 <br>
 
